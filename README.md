@@ -1,2 +1,7 @@
-# Tingen
-A custom web service for Avatar
+<!-- u240529 -->
+
+<div align="center">
+
+  ![logo](./.github/images/logos/Tingen_README.png)
+
+</div>

@@ -3,9 +3,9 @@
 // https://github.com/APrettyCoolProgram/Tingen_development
 // Copyright (c) A Pretty Cool Program. All rights reserved.
 // Licensed under the Apache 2.0 license.
-// ================================================================ 240621 =====
+// ================================================================ 240622 =====
 
-// u240620.1102
+// u240621.0855
 
 /* -----------------------------------------------------------------
  * Important information about Tingen.cs (and Tingen_development.cs)
@@ -96,7 +96,5 @@ namespace Tingen
 
             return tnSession.AvData.ReturnOptionObject;
         }
-
-
     }
 }

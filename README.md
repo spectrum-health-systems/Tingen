@@ -4,6 +4,8 @@
 
   ![logo](/.github/images/logos/Tingen_README.png)
 
+  ![BranchWarning](https://img.shields.io/badge/Stable_Release-24.7-darkgreen?style=for-the-badge)
+
 </div>
 
 # About Tingen

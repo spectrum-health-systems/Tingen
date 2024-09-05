@@ -75,8 +75,8 @@ flowchart TB
   style DevDeploy fill:goldenrod,stroke:#333,stroke-width:2px        
   style Testing fill:indianred,stroke:#333,stroke-width:2px,color:#000000 
   style Release fill:seagreen,stroke:#FFFFFF,stroke-width:4px,color:black
-  style Stable fill:000000,stroke:#333,stroke-width:2px
-  style Tingen fill:green,stroke:#333,stroke-width:2px
+  style Stable fill:lightseagreen,stroke:#333,stroke-width:2px
+  style Tingen fill:000000,stroke:#333,stroke-width:2px
   style Community fill:lightseagreen,stroke:#333,stroke-width:2px
   style CommunityRelease fill:000000,stroke:#333,stroke-width:2px
 

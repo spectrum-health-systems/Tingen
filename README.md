@@ -70,10 +70,10 @@ flowchart TB
 
   style Development fill:darkslategrey,stroke:#FFFFFF,stroke-width:4px
   style WebServiceComponents fill:slategrey,stroke:#333,stroke-width:2px
-  style TingenDevelopment fill:steelblue,stroke:#333,stroke-width:2px
-  style Outpost31 fill:steelblue,stroke:#333,stroke-width:2px
-  style DevDeploy fill:indianred,stroke:#333,stroke-width:2px        
-  style Testing fill:goldenrod,stroke:#333,stroke-width:2px,color:#000000 
+  style TingenDevelopment fill:000000,stroke:#333,stroke-width:2px
+  style Outpost31 fill:000000,stroke:#333,stroke-width:2px
+  style DevDeploy fill:goldenrod,stroke:#333,stroke-width:2px        
+  style Testing fill:indianred,stroke:#333,stroke-width:2px,color:#000000 
   style Release fill:seagreen,stroke:#FFFFFF,stroke-width:4px,color:black
   style Stable fill:lightseagreen,stroke:#333,stroke-width:2px
   style Tingen fill:green,stroke:#333,stroke-width:2px

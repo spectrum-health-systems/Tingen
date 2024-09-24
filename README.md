@@ -1,10 +1,10 @@
-<!-- u240905 -->
+<!-- u240924 -->
 
 <div align="center">
 
   ![logo](/.github/images/logos/Tingen_README.png)
 
-  ![BranchWarning](https://img.shields.io/badge/Stable_Release-00.00-darkgreen?style=for-the-badge)
+  ![BranchWarning](https://img.shields.io/badge/Stable_Release---.---seagreen?style=for-the-badge)
 
 </div>
 

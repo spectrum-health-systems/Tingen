@@ -15,7 +15,7 @@
 > 
 > This is the *stable version* of Tingen, and is used to do internal testing.
 >
-> While you *can* use this version of Tingen in production environments, it *is not* recommended.
+> While you *can* use this version of Tingen in production environments, it *is not recommended*.
 >
 > Production environments should use the Tingen [Community Release](https://github.com/spectrum-health-systems/Tingen-CommunityRelease).
 
@@ -50,9 +50,11 @@ There are three two types of branches in this repository:
 
 The reason why this repository is pretty bare-bones is because all of the development work is really done in 
 
-* [**Tingen_development**](https://github.com/spectrum-health-systems/Tingen_development): The development version of Tingen
+* [**Tingen_development**](https://github.com/spectrum-health-systems/Tingen_development)  
+  The development version of Tingen
 
-* [**Outpost31**](https://github.com/spectrum-health-systems/Outpost31): The core components/logic of Tingen
+* [**Outpost31**](https://github.com/spectrum-health-systems/Outpost31)  
+  The core components/logic of Tingen
 
 # Documentation
 

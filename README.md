@@ -46,6 +46,12 @@ There are three two types of branches in this repository:
 * **Tingen archive snapshots**  
   When development starts on a new monthly version, the previous version is archived to a separate branch (e.g., `24.9.0-stable`).
 
+# Roadmaps and Changelogs
+
+You can also review the Tingen [Roadmap](https://github.com/orgs/spectrum-health-systems/projects/51/views/3) and [Changelog](https://github.com/orgs/spectrum-health-systems/projects/51/views/4?groupedBy%5BcolumnId%5D=141162315&filterQuery=status%3ACompleted)
+
+Remember, though, that the majority of the upcoming features/changes will be part of [Outpost31](https://github.com/spectrum-health-systems/Outpost31)
+
 ## Other projects
 
 The reason why this repository is pretty bare-bones is because all of the development work is really done in 

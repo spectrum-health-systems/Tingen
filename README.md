@@ -16,10 +16,13 @@ While Avatar™ is a robust platform, it isn't perfect. The good news is that yo
 
 ## Tingen features
 
-* Several built-in tools and utilities for use with Avatar™
+* Several built-in tools and utilities that extend the functionality of Avatar™
 * A solid foundation to build additional Avatar™ custom tools and utilities
 * Extremely customizable
 * Robust logging
+* ...and [more](https://github.com/spectrum-health-systems/Tingen-Documentation/static/tingen-features.md)!
+
+
 
 For more infomation about Tingen, please read the [documentation](https://github.com/spectrum-health-systems/Tingen-Documentation).
 

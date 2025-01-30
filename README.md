@@ -23,6 +23,13 @@ While Avatar™ is a robust platform, it isn't perfect. The good news is that yo
 
 For more infomation about Tingen, please read the [documentation](https://github.com/spectrum-health-systems/Tingen-Documentation).
 
+# Tingen components
+
+The Tingen web service and it's various utilities are comprised of quite a few projects, including:
+
+
+
+
 # Repository branches
 
 There are three two types of branches in this repository:

@@ -28,10 +28,31 @@ For more infomation about Tingen, please read the [documentation](https://github
 
 # Tingen components
 
-The Tingen web service and it's various utilities are comprised of quite a few projects, including:
+The Tingen web service is actually two parts:
+
+<div align="center">
+		<table>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services"><img src="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services/blob/main/.github/images/logos/ScriptLinkAndWebServices_256x256.jpeg"></a>
+			</td>
+			<td align="left">
+				Information, documentation, and additional resources about:
+				<ul>
+					<li>ScriptLink and web services</li> 
+					<li>Creating a custom web service for Avatar</li> 
+					<li>Self-hosting custom web services</li>
+					<li>Third-party components</li>
+					<li>...and more!</li>
+				</ul>
+				<br>       
+			</td>
+		</tr>
+	</table>
+</div>
 
 
-
+# Tingen components
 
 # Repository branches
 

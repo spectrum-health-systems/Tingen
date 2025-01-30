@@ -4,20 +4,7 @@
 
   ![logo](/.github/image/logo/Tingen_logo_320x420.png)
 
-  ![PRODUCTION_VERSION](https://img.shields.io/badge/release-00.00-seagreen?style=flat-square)
-  ![DotNet](https://img.shields.io/badge/.net-Framework_4.8-darkslateblue?style=flat-square)&nbsp;&nbsp;
-  ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)&nbsp;&nbsp;
-  ![License](https://img.shields.io/github/license/spectrum-health-systems/Outpost31?style=flat-square)&nbsp;&nbsp;
-
 </div>
-
-> HI THERE!  
-> 
-> This is the *stable version* of Tingen, and is used to do internal testing.
->
-> While you *can* use this version of Tingen in production environments, it *is not recommended*.
->
-> Production environments should use the Tingen [Community Release](https://github.com/spectrum-health-systems/Tingen-CommunityRelease).
 
 # About Tingen
 

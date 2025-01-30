@@ -1,8 +1,8 @@
-<!-- u241017 -->
+<!-- u250130 -->
 
 <div align="center">
 
-  ![logo](/.github/images/logos/Tingen_README.png)
+  ![logo](/.github/image/logo/Tingen_logo_320x420.png)
 
   ![PRODUCTION_VERSION](https://img.shields.io/badge/release-00.00-seagreen?style=flat-square)
   ![DotNet](https://img.shields.io/badge/.net-Framework_4.8-darkslateblue?style=flat-square)&nbsp;&nbsp;

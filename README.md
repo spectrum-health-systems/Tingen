@@ -1,12 +1,49 @@
-<!-- u250130 -->
+<!-- u250211 -->
 
 <div align="center">
 
-  ![logo](/.github/image/logo/Tingen_logo_320x420.png)
+  ![logo](.github/image/logo/Tingen_logo_320x420.png)
 
 </div>
 
 # About Tingen
+
+Tingen is a collection of projects and utilities that revolve around the Tingen Web Service.
+
+<div align="center">
+		<table>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-WebService"><img src="https://github.com/spectrum-health-systems/Tingen-WebService/blob/main/.github/image/logo/TingenWebService_logo_320x568.png"></a>
+			</td>
+			<td align="left">
+				Information, documentation, and additional resources about:
+				<ul>
+					<li>ScriptLink and web services</li> 
+					<li>Creating a custom web service for Avatar</li> 
+					<li>Self-hosting custom web services</li>
+					<li>Third-party components</li>
+					<li>...and more!</li>
+				</ul>
+				<br>       
+			</td>
+		</tr>
+	</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Netsmart's Avatar™](https://www.ntst.com/Solutions-and-Services/Offerings/myAvatar) is a behavioral health EHR that offers a recovery-focused suite of solutions that leverage real-time analytics and clinical decision support to drive value-based care.
 

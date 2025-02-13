@@ -40,7 +40,7 @@ The Tingen Web Service requires [**Outpost31**](https://github.com/spectrum-heal
 		<table>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/Tingen-Documentationlob/main/.github/image/logo/TingenDocumentation_logo_320x420.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/.github/image/logo/TingenDocumentation_logo_320x420.png"></a>
 			</td>
 		</tr>
 	</table>

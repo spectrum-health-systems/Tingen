@@ -6,11 +6,11 @@
 
 </div>
 
-# About Tingen
+# About Tingen projects
 
 Tingen is a collection of projects and utilities for use with [Netsmart's Avatar™](https://www.ntst.com/Solutions-and-Services/Offerings/myAvatar) EHR.
 
-The main Tingen project is the [Tingen Web Service](https://github.com/spectrum-health-systems/Tingen-WebService).
+## The Tingen Web Service
 
 <div align="center">
 		<table>

@@ -30,59 +30,45 @@ The **Tingen Web Service** is one such custom web service which includes various
 
 For more infomation about the Tingen Web Service, please visit the [repository](https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services") and/or read the [documentation](https://github.com/spectrum-health-systems/Tingen-Documentation).
 
-# Tingen components
+### Outpost31
 
-The Tingen web service is actually two parts:
+The Tingen Web Service requires [**Outpost31**](https://github.com/spectrum-health-systems/Outpost31), which contains the core components/logic for the Tingen Web Service.
+
+## Tingen Lieutenant
 
 <div align="center">
 		<table>
-		<tr>
+    		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services"><img src="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services/blob/main/.github/images/logos/ScriptLinkAndWebServices_256x256.jpeg"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-Lieutenant"><img src="https://github.com/spectrum-health-systems/Tingen-Lieutenant/blob/main/.github/image/logo/TingenLieutenant_logo_194x254.png"></a>
 			</td>
-			<td align="left">
-				Information, documentation, and additional resources about:
-				<ul>
-					<li>ScriptLink and web services</li> 
-					<li>Creating a custom web service for Avatar</li> 
-					<li>Self-hosting custom web services</li>
-					<li>Third-party components</li>
-					<li>...and more!</li>
-				</ul>
-				<br>       
+	</table>
+</div>
+
+## Tingen Commander
+
+<div align="center">
+		<table>
+      <tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-Commander"><img src="https://github.com/spectrum-health-systems/Tingen-Commander/blob/main/.github/image/logo/TingenCommander_logo_194x254.png"></a>
 			</td>
 		</tr>
 	</table>
 </div>
 
+## Tingen DevDeploy
 
-# Tingen components
+<div align="center">
+		<table>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-DevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen-DevDeploy/blob/main/.github/image/logo/TingenDevDeploy_logo_194x254.png"></a>
+			</td>
+		</tr>
+	</table>
+</div>
 
-# Repository branches
-
-There are three two types of branches in this repository:
-
-* **[main](https://github.com/spectrum-health-systems/Tingen/tree/main)**  
-  This is the latest stable release of Tingen. You can think of this as the Release Candidate for the Tingen [Community Release](https://github.com/spectrum-health-systems/Tingen-CommunityRelease).
-
-* **Tingen archive snapshots**  
-  When development starts on a new monthly version, the previous version is archived to a separate branch (e.g., `24.9.0-stable`).
-
-# Roadmaps and Changelogs
-
-You can also review the Tingen [Roadmap](https://github.com/orgs/spectrum-health-systems/projects/51/views/3) and [Changelog](https://github.com/orgs/spectrum-health-systems/projects/51/views/4?groupedBy%5BcolumnId%5D=141162315&filterQuery=status%3ACompleted).
-
-Remember, though, that the majority of the upcoming features/changes will be part of [Outpost31](https://github.com/spectrum-health-systems/Outpost31).
-
-## Other projects
-
-The reason why this repository is pretty bare-bones is because all of the development work is really done in 
-
-* [**Tingen_development**](https://github.com/spectrum-health-systems/Tingen_development)  
-  The development version of Tingen
-
-* [**Outpost31**](https://github.com/spectrum-health-systems/Outpost31)  
-  The core components/logic of Tingen
 
 # Documentation
 

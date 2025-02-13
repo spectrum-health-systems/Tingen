@@ -35,7 +35,7 @@ For more infomation about the Tingen Web Service, please visit the [repository](
 		<table>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/TiOutpost31/blob/main/.github/image/logo/Outpost31_logo_194x254.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/image/logo/Outpost31_logo_194x254.png"></a>
 			</td>
 	</table>
 </div>

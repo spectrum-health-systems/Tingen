@@ -34,13 +34,27 @@ For more infomation about the Tingen Web Service, please visit the [repository](
 
 The Tingen Web Service requires [**Outpost31**](https://github.com/spectrum-health-systems/Outpost31), which contains the core components/logic for the Tingen Web Service.
 
+## Tingen Documentation
+
+<div align="center">
+		<table>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/Tingen-Documentationlob/main/.github/image/logo/TingenDocumentation_logo_320x420.png"></a>
+			</td>
+		</tr>
+	</table>
+</div>
+
+You can find all the documentation you could ever want about Tingen (and related projects) [here](https://github.com/spectrum-health-systems/Tingen-Documentation).
+
 ## Tingen Lieutenant
 
 <div align="center">
 		<table>
     		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Tingen-Lieutenant"><img src="https://github.com/spectrum-health-systems/Tingen-Lieutenant/blob/main/.github/image/logo/TingenLieutenant_logo_194x254.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-Lieutenant"><img src="https://github.com/spectrum-health-systems/Tingen-Lieutenant/blob/main/.github/image/logo/TingenLieutenant_logo_320x420.png"></a>
 			</td>
 	</table>
 </div>
@@ -51,7 +65,7 @@ The Tingen Web Service requires [**Outpost31**](https://github.com/spectrum-heal
 		<table>
       <tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Tingen-Commander"><img src="https://github.com/spectrum-health-systems/Tingen-Commander/blob/main/.github/image/logo/TingenCommander_logo_194x254.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-Commander"><img src="https://github.com/spectrum-health-systems/Tingen-Commander/blob/main/.github/image/logo/TingenCommander_logo_320x420.png"></a>
 			</td>
 		</tr>
 	</table>
@@ -63,13 +77,8 @@ The Tingen Web Service requires [**Outpost31**](https://github.com/spectrum-heal
 		<table>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Tingen-DevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen-DevDeploy/blob/main/.github/image/logo/TingenDevDeploy_logo_194x254.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-DevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen-DevDeploy/blob/main/.github/image/logo/TingenDevDeploy_logo_320x420.png"></a>
 			</td>
 		</tr>
 	</table>
 </div>
-
-
-# Documentation
-
-You can find all the documentation you could ever want about Tingen (and related projects) [here](https://github.com/spectrum-health-systems/Tingen-Documentation).

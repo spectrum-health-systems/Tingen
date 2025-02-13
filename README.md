@@ -8,7 +8,9 @@
 
 # About Tingen
 
-Tingen is a collection of projects and utilities that revolve around the Tingen Web Service.
+Tingen is a collection of projects and utilities for use with [Netsmart's Avatar™](https://www.ntst.com/Solutions-and-Services/Offerings/myAvatar) EHR.
+
+The main Tingen project is the [Tingen Web Service](https://github.com/spectrum-health-systems/Tingen-WebService).
 
 <div align="center">
 		<table>
@@ -17,13 +19,11 @@ Tingen is a collection of projects and utilities that revolve around the Tingen 
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-WebService"><img src="https://github.com/spectrum-health-systems/Tingen-WebService/blob/main/.github/image/logo/TingenWebService_logo_320x568.png"></a>
 			</td>
 			<td align="left">
-				Information, documentation, and additional resources about:
-				<ul>
-					<li>ScriptLink and web services</li> 
-					<li>Creating a custom web service for Avatar</li> 
-					<li>Self-hosting custom web services</li>
-					<li>Third-party components</li>
-					<li>...and more!</li>
+				* Several built-in tools and utilities that extend the functionality of Avatar™
+				* A solid foundation to build additional Avatar™ custom tools and utilities
+				* Extremely customizable
+				* Robust logging
+				* ...and [more](https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Static/TingenFeatures.md)!
 				</ul>
 				<br>       
 			</td>

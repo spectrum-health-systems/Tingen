@@ -18,16 +18,6 @@ The main Tingen project is the [Tingen Web Service](https://github.com/spectrum-
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-WebService"><img src="https://github.com/spectrum-health-systems/Tingen-WebService/blob/main/.github/image/logo/TingenWebService_logo_320x568.png"></a>
 			</td>
-			<td align="left">
-				* Several built-in tools and utilities that extend the functionality of Avatar™
-				* A solid foundation to build additional Avatar™ custom tools and utilities
-				* Extremely customizable
-				* Robust logging
-				* ...and [more](https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Static/TingenFeatures.md)!
-				</ul>
-				<br>       
-			</td>
-		</tr>
 	</table>
 </div>
 

@@ -1,3 +1,0 @@
-# Tingen: Development Scratchpad
-
-Scratchpad.
